@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DisneyPlus/static/css/main.b5a979e4.css",
-    "main.js": "/DisneyPlus/static/js/main.eabbd3cc.js",
+    "main.js": "/DisneyPlus/static/js/main.ba4e1e71.js",
     "static/media/slick.svg": "/DisneyPlus/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/DisneyPlus/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/DisneyPlus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/DisneyPlus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/DisneyPlus/index.html",
     "main.b5a979e4.css.map": "/DisneyPlus/static/css/main.b5a979e4.css.map",
-    "main.eabbd3cc.js.map": "/DisneyPlus/static/js/main.eabbd3cc.js.map"
+    "main.ba4e1e71.js.map": "/DisneyPlus/static/js/main.ba4e1e71.js.map"
   },
   "entrypoints": [
     "static/css/main.b5a979e4.css",
-    "static/js/main.eabbd3cc.js"
+    "static/js/main.ba4e1e71.js"
   ]
 }
